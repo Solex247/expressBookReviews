@@ -1,0 +1,4 @@
+ADAMS_SOLOMON (main *) expressBookReviews
+$ curl http://localhost:5000/isbn/1
+{"author":"Chinua Achebe","title":"Things Fall Apart","reviews":{}}ADAMS_SOLOMON (main *) expressBookReviews
+$ 
